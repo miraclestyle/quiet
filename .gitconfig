@@ -1,0 +1,11 @@
+[user]
+	email = useremail@example.com
+	name = username
+[alias]
+	co = commit
+	ch = checkout
+	br = branch
+	st = status
+	re = restore
+[core]
+	editor = nano
